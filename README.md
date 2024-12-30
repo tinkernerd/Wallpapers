@@ -1,5 +1,6 @@
 > ⚠️ **This repo has been merged** ⚠️
 > These and more have been merged into [walls](https://tinkernerd.github.com/walls)
+
 # Wallpapers Collection
 
 This repository contains various wallpapers I use or plan to use across different programs. Some of these images are not originally mine, and credit goes to their respective creators.
