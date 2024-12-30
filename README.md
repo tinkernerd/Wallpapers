@@ -1,5 +1,4 @@
-> ⚠️ **This repo has been merged** ⚠️
-> These and more have been merged into [walls](https://tinkernerd.github.com/walls)
+> ⚠️ **This repo has been merged into [walls](https://tinkernerd.github.com/walls)** ⚠️
 
 # Wallpapers Collection
 
